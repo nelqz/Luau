@@ -1,3 +1,4 @@
+-- FPS boost
 game.Lighting.PrioritizeLightingQuality = false
 game.Lighting.GlobalShadows = false
 game.Lighting.FogEnd = math.huge
