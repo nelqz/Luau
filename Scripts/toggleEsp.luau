@@ -1,3 +1,5 @@
+-- ehhhhhh
+-- esp i think
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
